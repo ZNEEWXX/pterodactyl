@@ -1,5 +1,4 @@
 ### Какая Операционая система нужна
-
 | Operating System | Version | Supported          | PHP Version |
 | ---------------- | ------- | ------------------ | ----------- |
 | Ubuntu           | 14.04   | :red_circle:       |             |
@@ -20,8 +19,7 @@
 | AlmaLinux        | 8       | :white_check_mark: | 8.1         |
 |                  | 9       | :white_check_mark: | 8.1         |
 
-№ Скрипт Установки
-
+### Скрипт Установки
 ```bash
 bash <(curl -s https://pterodactyl-installer.se)
 ```
