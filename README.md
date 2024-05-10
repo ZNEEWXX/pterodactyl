@@ -1,5 +1,5 @@
 ### Какая Операционая система нужна
-| Operating System | Version | Supported          | PHP Version |
+| Операционые системы | Версия  | Supported          | PHP Version |
 | ---------------- | ------- | ------------------ | ----------- |
 | Ubuntu           | 14.04   | :red_circle:       |             |
 |                  | 16.04   | :red_circle: \*    |             |
