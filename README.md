@@ -23,3 +23,14 @@
 ```bash
 bash <(curl -s https://pterodactyl-installer.se)
 ```
+
+### Wings Команды
+
+
+```bash
+systemctl enable --now wings
+```
+
+```bash
+systemctl restart wings
+```
