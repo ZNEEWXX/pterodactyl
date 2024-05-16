@@ -34,3 +34,6 @@ systemctl enable --now wings
 ```bash
 systemctl restart wings
 ```
+```bash
+systemctl start wings
+```
